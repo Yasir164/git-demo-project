@@ -16,3 +16,14 @@ footer {
   padding: 16px;
   font-size: 0.9em;
 }
+header nav {
+  background: #333;
+  padding: 12px;
+}
+
+header nav a {
+  color: white;
+  margin-right: 16px;
+  text-decoration: none;
+}
+}
