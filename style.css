@@ -9,3 +9,10 @@ main {
   padding: 40px 20px;
   text-align: center;
 }
+
+footer {
+  background: #eee;
+  text-align: center;
+  padding: 16px;
+  font-size: 0.9em;
+}
